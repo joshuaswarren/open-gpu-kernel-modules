@@ -1031,3 +1031,7 @@ Subsystem Device ID.
 | NVIDIA GB300                                            | 31C2 10DE 21F1 |
 | NVIDIA GB300                                            | 31C3 10DE 22F8 |
 | NVIDIA GB300-252                                        | 31C3 10DE 23AB |
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
